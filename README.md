@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">
+  Hi, I'm Steven! <img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="50">
+</h1>
 
-<!--
-**st-yim/st-yim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS Grad at UPenn — More of me here  
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-steven--yim--white?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/steven-yim-/)
+[![GitHub](https://img.shields.io/badge/GitHub-st--yim-black?style=for-the-badge&logo=github)](https://github.com/st-yim)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🌐 Passionate about software development and digital health innovation.
+
+---
